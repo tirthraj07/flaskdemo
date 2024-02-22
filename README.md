@@ -1,5 +1,10 @@
 # This is a demo of flask file architecture
 
+This is an overview of the the flask file architecture  
+
+> **Note:** `.env` file should be in `.gitignore`  
+
+
 ## File Architecture
 ```
 project_root/
